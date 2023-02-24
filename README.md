@@ -2,7 +2,7 @@
 
 ### Raspberry Pi Pico
 <p align="left">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/kurtasli/Raspberry-Pi-Pico/main/raspberry-pi-pico.jpg">
+  <img width="500" height="350" src="https://raw.githubusercontent.com/kurtasli/Raspberry-Pi-Pico/main/raspberry-pi-pico.jpg">
 </p>
 
 ### Raspberry Pi Pico Pinout
